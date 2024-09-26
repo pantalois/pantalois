@@ -1,5 +1,4 @@
-![Banner](https://github.com/pantalois/pantalois/blob/main/Github-banner.jpg)
-<img src="https://github.com/pantalois/pantalois/raw/main/Github-banner.jpg" alt="Banner" style="width:100%; height:auto;">
+<img src="https://github.com/pantalois/pantalois/raw/main/Github banner(1).png" alt="Banner" style="width:200%; height:auto;">
 <h1 align="center">Hi 👋, I'm Lois González Alonso</h1>
 <h3 align="center">A passionate software developer from Galicia</h3>
 <img align="right" alt="Coding" width="200" src="https://pa1.aminoapps.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif"
