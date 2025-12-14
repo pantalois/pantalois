@@ -23,7 +23,7 @@
 
   <h3 align="left">🚀 Sobre mí</h3>
   <ul align="left">
-    <li>🌍 Soy un desarrollador de <strong>Galicia, España</strong>.</li>
+    <li>🌍 Soy un desarrollador de <strong>Galicia, actualmente residiendo en <strong>Barcelona.</li>
     <li>🎓 Formado en <strong>42 Barcelona</strong> (Computer Science) e <strong>IT Academy</strong> (Backend Java).</li>
     <li>🏗️ Especializado en diseñar <strong>backends escalables</strong> con Arquitectura Hexagonal y DDD.</li>
     <li>🎬 Cuento con 4 años de experiencia previa en producción audiovisual, lo que me aporta una visión única entre la creatividad y la técnica.</li>
